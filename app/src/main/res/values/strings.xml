@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Bacicos_2</string>
+    <string name="buttonlogin">LOGIN</string>
+    <string name="email">E-mail</string>
+    <string name="contraseña">Contraseña</string>
+    <string name="editcontraseña">Contraseña</string>
+    <string name="Email">Email</string>
+    <string name="password">Password</string>
+</resources>
